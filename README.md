@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Creditcard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# creditcard
+Credit card using Angular Reactive Form
+>>>>>>> 64fb9100c775a30da469b75814b17aca36d496df
